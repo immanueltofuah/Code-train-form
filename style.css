@@ -1,0 +1,47 @@
+
+body {
+	background-color: #e3edfd;
+	
+}
+
+.input {
+	border: 0px;
+	border-bottom: 1px solid grey;
+}
+.main{
+	/*border:solid thin*/;
+	border-radius: 10px;
+	height: 25vh;
+	width: 650px;
+	padding: 40px;
+	margin: 0px auto;
+	background-color: white;
+	}
+span{
+	color: red;
+}
+
+
+	.main1{
+	/*border:solid thin;*/
+	border-radius: 10px;
+	height: 25vh;
+	width: 650px;
+	padding: 40px;
+	border-top: 20px solid blue;
+	margin: 0px auto;
+	background-color: white;
+
+	}
+	.button {
+		background-color: #0074ed;
+		border:none;
+		color:white;
+		border-radius:10px;
+		height: 45px;
+		width:90px;
+		margin-left:300px;
+	}
+	.last{
+		text-align: center; 
+		}
